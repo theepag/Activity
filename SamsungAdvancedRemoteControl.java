@@ -1,4 +1,4 @@
-package normal;
+
 
 public class SamsungAdvancedRemoteControl extends AdvancedRemoteControl {
     @Override
