@@ -1,4 +1,4 @@
-package normal;
+
 
 public class SonyRemoteControl extends RemoteControl{
 
